@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tannu Dubey</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tannu25" alt="tannu25" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://saiie5.netlify.app/](https://saiie5.netlify.app/)
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 📫 How to reach me **tannu.12102@gmail.com**
 
