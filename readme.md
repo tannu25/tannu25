@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tannu Dubey</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+<p>Analytical, ambitious and experienced professional seeking a role with Golden Enterprises applying my Knowledge in analyst field to leverage my expertise in data analysis and business process improvement to contribute to the success of an organization.</p>
 
 - 📫 How to reach me **tannu.12102@gmail.com**
 
